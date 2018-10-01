@@ -20,7 +20,17 @@
         for image reorganisation and image half toning.
    3.Cloud
 	It extracts the features of the image and transmit to the cloud server.Also perform matching in the space of the quantised projection.
- 4.Segmentation
+   4.Segmentation
         In real time, the images can be segmented in a non parametric way.
 
-4) 
+4) Law of absorption in radiological imaging:
+   
+
+5) Sensor Sensitivity:
+        Sensitivity is the ratio between output signal and measured property.It is also the slope of the transfer function.
+	Sensitivity is constant if the sensor measures temperature and produce a output as voltage.
+
+   Sensor Selectivity:
+	Selectivity is the ablity to filter out signals from a large number of signals without interference from others.It is that how well the 
+        sensor can able to discriminate the responses from adjacent inputs. For ex, if gas sensor is designed for methane then how well it responds 
+        to methane in that mixture of gases.       
