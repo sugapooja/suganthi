@@ -1,0 +1,75 @@
+1) 3 phases of Biodesign innovation process:
+    ->Identify
+    ->Invent
+    ->Implement
+
+2)a)Questionnaire is framed by
+
+  step 1: Identify the objective and exact information of the survey in order to get a usable data for questionnaire
+  step 2: Write the first draft in the paper which contains all the possible questions
+  step 3: After the first draft was done,the better information containing questions will be shortlisted for the next
+          step based on the similarity of ideas
+  step 4: Order the questions from easy to answer questions and slowly proceed to the tougher ones in a logical manner
+  step 5: It is essential to have clarity about the language,the respondents should also understood the language so the 
+          questionnaire should be in local language and also in respondents language
+  step 6: Ensure that there is no grammer and spelling errors
+  step 7: Add an introductory note in order to make the respondents more comfortable.
+  
+  b)A study on noble medical device for better patient diagnosis and treating larynx cancer:
+         
+        Patient Survey
+	
+	1.What is your Gender?
+           A) Male
+	   B) Female
+	2.What is your age?
+	   A) Below 30
+           B) 30-35
+           C) 35-40
+           D) 40-45
+           E) Above 45
+        3.What is your area of living?
+           A) Rural
+           B) Urban
+	4.Are you benifited from our service?
+           A) Yes
+           B) No
+        5.Which medical device helps you to give a better diagnosis result?
+          A) Ultrasound
+          B) PET
+          C) CT
+          D) MRI
+        6. In which major disease you are affected by?
+          A) Ischemic heart disease
+          B) Stroke
+          C) Lower respiratory Infection
+          D) COPD
+          E) Trachea,Bronchus & lung cancer
+        7.Was your General Practitioner given enough information about your health condition?
+          A) Yes
+          B) No
+          C) Can't Remember
+        8.The facilities provided by the hospital is ?
+          A) Good
+          B) Better
+          C) Sufficient
+          D) Not Sufficient
+       9.While operating biopsy for testing the tissue sample of the cancer patient,did the doctors 
+         help you to get rid out from your fear during surgery?
+	  A) Yes
+          B) No
+       10.Nurses in the hospital provide better Patient care for the patients?
+          A) Agree
+          B) Disagree
+       11.Thus the Medical Assistants provide better communication between patient and doctor?
+          A) Yes
+          B) No
+       12.If you are a cancer patient ,Based on which stage of your cancer the treatments are provided?
+         A) Stage I and II
+         B) Stage III
+         C) Stage IV 
+      13.Is the medical device manufacturers visted the hospital for checking the medical devices?
+         A) Visited
+         B) Not visited
+         C) Sometimes visited
+      14.Any other feedbacks?
