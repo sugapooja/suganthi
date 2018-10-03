@@ -1,0 +1,67 @@
+1)Hypothesis Testing:
+	Firstly,hypothesis is an assumption which is used to determine the relationship between two data sets.
+        Hypothesis testing is a stastical test or a systematic way to select samples from a group or population with 
+        the purpose of making a stastical decisions using experimental data.
+ Types:
+      -> Null Hypothesis
+      -> Alternate Hypothesis
+
+ Null hypothesis is used in statistics that defines no statistical significance or no variation exist in a set of given observations.
+ In this type,the researcher's prediction is not true.
+ Alternate hypothesis is used in hypothesis testing which is opposite to null hypothesis and here the researcher's predicted difference is true.
+
+2)Correlation:
+	Correlation tell us about two variables are related by the use of statistical tools and techniques.The measure of correlation
+        between two variables is called correlation coefficient.It also measures the strength and direction of the linear relationship 
+        between two or more variables.
+
+    a.Various methods for computing correlation
+        ->Scatter diagram method
+        ->Karl pearson's coefficient of correlation
+        ->Spearman's rank correlation coefficient
+        ->Methods of least squares
+
+    b.Correlation in Biomedical Engineering and Technology:
+        ->Cardiac output measurement is the invasive pulmonary artery catheterization and the application of thermodilution method
+          to estimate the blood flow.It is a invasive method and thermodilution method are sensitive to many physical and biological disturbances.
+         Therefore someother methods are looked for i.e. cardiac output measurements based on cross correlation signal analysis.
+       ->Using correlation coefficient in ECG waveform for arrhythmia detection.
+       ->Correlation of mRNA expression and signal variability in chronic intracortical electrodes.
+
+    c.p-value in correlation:
+         P-value are often used in hypothesis to determine whether you reject or fail to reject the null hypothesis.
+         p-value for pearson's correlation coefficient uses the t-distribution.
+         t=r*squareroot(n-2)/squareroot(1-r power of 2)
+         p-value is 2*p(T>t)
+         where,
+              T follows a t distribution with n-2 degrees of freedom.
+
+3) a)Mean=1121/23
+         =48.73
+     Variance=92.47/23
+             =4
+     Standard deviation=2
+  
+  b)EMPRICAL DISTRIBUTION FUNCTION:
+           Output: 0.087,0.1305,0.2609,0.4783,0.6522,0.7392,0.9131,1
+
+  c)10% Quantile=0.087
+    40% Quantile=0.2609
+    75% Quantile=0.7392
+
+4) b)Mean=1782/10
+       =178.2
+   Variance=971.6/10
+           =97.16
+   
+  c) 90% confidence Interval:
+        =Mean+Z(Variance)
+        =178.2+1.282(97.16)
+        =302.75
+
+
+
+   
+
+
+         
